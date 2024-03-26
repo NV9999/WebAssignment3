@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1484EA15-85F0-44E0-8FA7-E42A7820139C}|Assignment3\\Assignment3.csproj|c:\\users\\vinad virani\\onedrive\\desktop\\softwarequality\\assignment02\\assignment3\\assignment3\\data\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1484EA15-85F0-44E0-8FA7-E42A7820139C}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\data\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1484EA15-85F0-44E0-8FA7-E42A7820139C}|Assignment3\\Assignment3.csproj|c:\\users\\vinad virani\\onedrive\\desktop\\softwarequality\\assignment02\\assignment3\\assignment3\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1484EA15-85F0-44E0-8FA7-E42A7820139C}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1484EA15-85F0-44E0-8FA7-E42A7820139C}|Assignment3\\Assignment3.csproj|c:\\users\\vinad virani\\onedrive\\desktop\\softwarequality\\assignment02\\assignment3\\assignment3\\data\\webprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1484EA15-85F0-44E0-8FA7-E42A7820139C}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\data\\webprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1484EA15-85F0-44E0-8FA7-E42A7820139C}|Assignment3\\Assignment3.csproj|c:\\users\\vinad virani\\onedrive\\desktop\\softwarequality\\assignment02\\assignment3\\assignment3\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1484EA15-85F0-44E0-8FA7-E42A7820139C}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1484EA15-85F0-44E0-8FA7-E42A7820139C}|Assignment3\\Assignment3.csproj|c:\\users\\vinad virani\\onedrive\\desktop\\softwarequality\\assignment02\\assignment3\\assignment3\\data\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1484EA15-85F0-44E0-8FA7-E42A7820139C}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\data\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1484EA15-85F0-44E0-8FA7-E42A7820139C}|Assignment3\\Assignment3.csproj|c:\\users\\vinad virani\\onedrive\\desktop\\softwarequality\\assignment02\\assignment3\\assignment3\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1484EA15-85F0-44E0-8FA7-E42A7820139C}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1484EA15-85F0-44E0-8FA7-E42A7820139C}|Assignment3\\Assignment3.csproj|c:\\users\\vinad virani\\onedrive\\desktop\\softwarequality\\assignment02\\assignment3\\assignment3\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1484EA15-85F0-44E0-8FA7-E42A7820139C}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1484EA15-85F0-44E0-8FA7-E42A7820139C}|Assignment3\\Assignment3.csproj|c:\\users\\vinad virani\\onedrive\\desktop\\softwarequality\\assignment02\\assignment3\\assignment3\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1484EA15-85F0-44E0-8FA7-E42A7820139C}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\Assignment3\\Data\\UsersController.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Data\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\Assignment3\\Data\\UsersController.cs",
+              "RelativeToolTip": "Assignment3\\Data\\UsersController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T21:59:08.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\Assignment3\\Data\\WebProjectContext.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Data\\WebProjectContext.cs",
+              "ToolTip": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\Assignment3\\Data\\WebProjectContext.cs",
+              "RelativeToolTip": "Assignment3\\Data\\WebProjectContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA7wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:07:34.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\Assignment3\\Data\\CartsController.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Data\\CartsController.cs",
+              "ToolTip": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\Assignment3\\Data\\CartsController.cs",
+              "RelativeToolTip": "Assignment3\\Data\\CartsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T07:08:17.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\Assignment3\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\Assignment3\\Models\\Cart.cs",
+              "RelativeToolTip": "Assignment3\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:09:47.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\Assignment3\\Models\\Comments.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Models\\Comments.cs",
+              "ToolTip": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\Assignment3\\Models\\Comments.cs",
+              "RelativeToolTip": "Assignment3\\Models\\Comments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:09:45.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\Assignment3\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\Assignment3\\Models\\Orders.cs",
+              "RelativeToolTip": "Assignment3\\Models\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:09:42.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\Assignment3\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\Assignment3\\Models\\Users.cs",
+              "RelativeToolTip": "Assignment3\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:09:40.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\Assignment3\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\Vinad virani\\OneDrive\\Desktop\\SoftwareQuality\\Assignment02\\Assignment3\\Assignment3\\Models\\Products.cs",
+              "RelativeToolTip": "Assignment3\\Models\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:09:36.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
